@@ -1,0 +1,32 @@
+.container {
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 80px 100px;
+    text-align: center;
+}
+
+.heading {
+    font-size: 60px;
+}
+
+.paragraph {
+    font-size: 24px;
+}
+
+.ingredients {
+    list-style: none;
+    font-size: 18px;
+    padding-inline-start: 0;
+}
+
+.btn {
+    padding: 10px 15px;
+    border-radius: 10px;
+    background-color: wheat;
+    border: 1px solid steelblue;
+}
+
+.author {
+    margin-top: 20px;
+    font-size: 16px;
+}
